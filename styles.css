@@ -1,0 +1,46 @@
+h1 {
+    font-family: Impact;
+    text-align: center;
+    font-size: 500%;
+    height: 75px;
+    border-style: solid;
+    padding: 50px
+}
+a:link {
+    color: plum;
+}
+a:hover {
+    color: royalblue;
+}
+.linkMenu {
+    text-align: center;
+    height: 5px;
+}
+div p {
+    font-size: 200%;
+
+}
+.bodyCopy {
+    font-family: Arial;
+    text-align: center;
+}
+.images {
+    text-align: center;
+    font-size: 50%;
+    font-family: Arial;
+}
+#home {
+    background-color: #F5DEB3;
+}
+
+#zeus {
+    background-color: #FFFF00;
+}
+
+#poseidon {
+    background-color: #008080;
+}
+
+#hades {
+    background-color: #F73718;
+}
